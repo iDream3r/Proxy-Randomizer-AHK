@@ -78,7 +78,7 @@ freader(Select)
             }
         }
     }
-    Return row
+    Return
 }
 
 proxch(Status, Delayer, DelayRand, prox, port, row)
@@ -116,10 +116,10 @@ Stop:
     ESC::
     global Switch := 1
     proxch(1, Delayer, DelayRand, prox, port, row)
-	return
+    return
 
 Reload:
-	Reload
+    Reload
 
 Exit:
     ^q::
