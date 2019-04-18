@@ -1,6 +1,6 @@
 ## Proxy-Randomizer-AHK
 Set and randomize your proxies with this simple script. Come with a friendly GUI.
-This was done by iDream3r
+This script was done by iDream3r
 
 ### How to use
 
